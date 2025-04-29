@@ -1,0 +1,5 @@
+movieNum,movieName,releaseDate,reservationCount
+4,베테랑,2015-08-05,0
+2,범죄도시1,2017-10-03,4
+3,괴물,2006-07-27,4
+1,극한직업,2019-01-23,6
