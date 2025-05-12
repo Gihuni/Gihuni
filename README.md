@@ -1,11 +1,3 @@
-![image](https://github.com/user-attachments/assets/1061cc38-6371-4372-bd92-7abfd52a4f8a)
-![image](https://github.com/user-attachments/assets/35e733af-07ca-47f0-af94-8ea56097c791)
-![image](https://github.com/user-attachments/assets/d0fe7fc9-d65d-4c7d-b065-f2972c968660)
-![image](https://github.com/user-attachments/assets/21792389-b6f3-4bab-a7cd-90d49ad044ba)
-![image](https://github.com/user-attachments/assets/cea17193-e489-44f8-b2a7-716c18c24477)
-![image](https://github.com/user-attachments/assets/c8642a26-87fe-4228-9543-5d838cba78e9)
-
-
 
 
 # 🎬 Movie Theater 콘솔 프로그램
@@ -68,3 +60,11 @@ Java 기반 콘솔 영화 예매 시스템입니다. 사용자와 관리자가 �
 - **영화 등록**: 신규 영화 정보 추가
 - **영화 수정**: 기존 영화 정보(제목, 감독, 시간 등) 편집
 - **영화 삭제**: 상영 종료된 영화 정보 삭제
+
+
+![image](https://github.com/user-attachments/assets/1061cc38-6371-4372-bd92-7abfd52a4f8a)
+![image](https://github.com/user-attachments/assets/35e733af-07ca-47f0-af94-8ea56097c791)
+![image](https://github.com/user-attachments/assets/d0fe7fc9-d65d-4c7d-b065-f2972c968660)
+![image](https://github.com/user-attachments/assets/21792389-b6f3-4bab-a7cd-90d49ad044ba)
+![image](https://github.com/user-attachments/assets/cea17193-e489-44f8-b2a7-716c18c24477)
+![image](https://github.com/user-attachments/assets/c8642a26-87fe-4228-9543-5d838cba78e9)
